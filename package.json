@@ -1,0 +1,17 @@
+{
+  "name": "nojs",
+  "version": "1.0.0",
+  "description": "1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "smalin"
+  ],
+  "author": "smalin",
+  "license": "ISC",
+  "dependencies": {
+    "hprose": "^2.0.45"
+  }
+}
