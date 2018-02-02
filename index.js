@@ -12,5 +12,6 @@ function getName(num){
 }
 var server = hprose.Server.create("http://127.0.0.1:8081/hprose");
 server.addFunction(hello);
-// server.addFunction(getName);
+server.addFunction(getName);
 server.start();
+// 新的
