@@ -1,0 +1,26 @@
+
+/*mutations*/
+// export const changeleftBarState = 'login/changeleftBarState'
+export const SET_LOGIN = './SET_LOGIN'
+export const SET_LEFTBARSTATE = './SET_LEFTBARSTATE'
+export const SET_EDITARTICLE = './SET_EDITARTICLE'
+export const SET_GETARTICLEID = './SET_GETARTICLEID'
+export const SET_SHOWBAR = './SET_SHOWBAR'
+export const SET_TITLE = './SET_TITLE'
+export const SET_CHANGEFLAG = './SET_CHANGEFLAG'
+/*actions*/
+export const changelogin = './changelogin'
+export const changeleftBarState = './changeleftBarState'
+export const changeeditArticle = './changeeditArticle'
+export const changegetArticleId = './changegetArticleId'
+export const changeshowBar = './changeshowBar'
+export const changetitle = './changetitle'
+export const changechangeFlag = './changechangeFlag'
+/*getters*/
+export const login = './login'
+export const leftBarState = './leftBarState'
+export const editArticle = './editArticle'
+export const getArticleId = './getArticleId'
+export const showBar = './showBar'
+export const title = './title'
+export const changeFlag = './changeFlag'

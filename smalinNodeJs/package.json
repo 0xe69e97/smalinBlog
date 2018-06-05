@@ -12,6 +12,11 @@
   "author": "smalin",
   "license": "ISC",
   "dependencies": {
-    "hprose": "^2.0.45"
+    "Promise": "^1.0.5",
+    "async": "^2.6.0",
+    "bcryptjs": "^2.4.3",
+    "hprose": "^2.0.45",
+    "mysql": "^2.15.0",
+    "node-gyp": "^3.6.2"
   }
 }
